@@ -550,6 +550,7 @@ bun run build
    - Screenshots if UI changes
    - Testing steps performed
    - Any breaking changes noted
+   - **AI-assisted contributions**: If you used AI tools (Claude, GPT, etc.) to generate code, please include the prompt(s) used in your PR description to help maintainers understand the context and approach
 
 ### **PR Review Process**
 
